@@ -1,0 +1,6 @@
+[submodule "Prueba-tecnica-vue-Luis-Araya"]
+	path = Prueba-tecnica-vue-Luis-Araya
+	url = https://github.com/larayap/Prueba-tecnica-vue-Luis-Araya
+[submodule "Prueba-tecnica-C-Luis-Araya"]
+	path = Prueba-tecnica-C-Luis-Araya
+	url = https://github.com/larayap/Prueba-tecnica-C-Luis-Araya
